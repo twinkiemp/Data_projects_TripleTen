@@ -9,7 +9,7 @@ Analyzed Superstore dataset to see what factors are causing returns and finding 
 •	Discovered root causes of returns seem to be the product category and time of year.
 •	Suggested reaching out to customers, improving quality and investigating how we market our promotions in the months of July and November.
 Tableau: https://public.tableau.com/views/Sprint5SuperstoreReturns/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-Write Up: https://docs.google.com/document/d/1gFnJIevgRiAarlT_bcYaW8oJ6lBMtQYlU_04HAgrgLE/edit?usp=sharing
+Write Up: https://docs.google.com/document/d/1mUP2UrHMUqQx7Go9W5NY-48pqFRTScxl2QQ_OLcjC9I/edit?usp=sharing
 
 Zomato Restaurants 
 Analyzing Zomato dataset with restaurants in India and finding opportunities to increase sales.
